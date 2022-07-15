@@ -5,11 +5,16 @@
 ********************************************
 ****************** Task 1 ****************** 
 ********************************************
+Download git from https://git-scm.com/downloads
+
+Sign up for GitHub
+
 ** Step 4 **
 cd /home/student/working_directory
 
 
 ** Step 5 **
+Use GitHub information:
 git config --global user.name "student"
 git config --global user.email student@dev.local
 
