@@ -19,7 +19,7 @@ git config --global user.name "student"
 git config --global user.email student@dev.local
 
 ** Step 7 **
-git clone http://dev.gitlab.local/student/devnet-lab02.git .
+git clone http://dev.gitlab.local/student/devnet-lab02.git DeriveGit
 
 ** Step 8 **
 ls -la
